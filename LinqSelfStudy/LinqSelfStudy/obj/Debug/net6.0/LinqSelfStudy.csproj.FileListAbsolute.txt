@@ -1,0 +1,15 @@
+C:\Users\maisa\Desktop\VS_p\LinqSelfStudy\LinqSelfStudy\bin\Debug\net6.0\LinqSelfStudy.exe
+C:\Users\maisa\Desktop\VS_p\LinqSelfStudy\LinqSelfStudy\bin\Debug\net6.0\LinqSelfStudy.deps.json
+C:\Users\maisa\Desktop\VS_p\LinqSelfStudy\LinqSelfStudy\bin\Debug\net6.0\LinqSelfStudy.runtimeconfig.json
+C:\Users\maisa\Desktop\VS_p\LinqSelfStudy\LinqSelfStudy\bin\Debug\net6.0\LinqSelfStudy.dll
+C:\Users\maisa\Desktop\VS_p\LinqSelfStudy\LinqSelfStudy\bin\Debug\net6.0\LinqSelfStudy.pdb
+C:\Users\maisa\Desktop\VS_p\LinqSelfStudy\LinqSelfStudy\obj\Debug\net6.0\LinqSelfStudy.csproj.AssemblyReference.cache
+C:\Users\maisa\Desktop\VS_p\LinqSelfStudy\LinqSelfStudy\obj\Debug\net6.0\LinqSelfStudy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maisa\Desktop\VS_p\LinqSelfStudy\LinqSelfStudy\obj\Debug\net6.0\LinqSelfStudy.AssemblyInfoInputs.cache
+C:\Users\maisa\Desktop\VS_p\LinqSelfStudy\LinqSelfStudy\obj\Debug\net6.0\LinqSelfStudy.AssemblyInfo.cs
+C:\Users\maisa\Desktop\VS_p\LinqSelfStudy\LinqSelfStudy\obj\Debug\net6.0\LinqSelfStudy.csproj.CoreCompileInputs.cache
+C:\Users\maisa\Desktop\VS_p\LinqSelfStudy\LinqSelfStudy\obj\Debug\net6.0\LinqSelfStudy.dll
+C:\Users\maisa\Desktop\VS_p\LinqSelfStudy\LinqSelfStudy\obj\Debug\net6.0\refint\LinqSelfStudy.dll
+C:\Users\maisa\Desktop\VS_p\LinqSelfStudy\LinqSelfStudy\obj\Debug\net6.0\LinqSelfStudy.pdb
+C:\Users\maisa\Desktop\VS_p\LinqSelfStudy\LinqSelfStudy\obj\Debug\net6.0\LinqSelfStudy.genruntimeconfig.cache
+C:\Users\maisa\Desktop\VS_p\LinqSelfStudy\LinqSelfStudy\obj\Debug\net6.0\ref\LinqSelfStudy.dll
